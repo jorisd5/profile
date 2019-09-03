@@ -17,6 +17,10 @@ h1,h2,h3 {
   line-height: 1.7;
 }
 
+h4 {
+  color: #fff78f;
+}
+
 .button {
   background-color: #007065;
   border-radius: 5px;
@@ -40,7 +44,7 @@ h1,h2,h3 {
 }
 
 .card {
-  background-color: #fffde8;
+  background-color: white;
   padding: 30px;
   border: 1px solid lightgrey;
   border-radius: 5px;
