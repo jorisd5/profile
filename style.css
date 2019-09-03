@@ -3,7 +3,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300; /* if you want the light version */
-  background-color: #f9fce1;
+  background-color: #e6f8f9;
   color: #992e24;
   font-size: 20px;
   line-height: 1.4;
@@ -12,7 +12,7 @@ body {
 h1,h2,h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: 900i;
-  color: #204969;
+  color: #4c8492;
   font-size: 1.5em;
   line-height: 1.7;
 }
@@ -40,7 +40,7 @@ h1,h2,h3 {
 }
 
 .card {
-  background-color: #fee9b2;
+  background-color: #fffde8;
   padding: 30px;
   border: 1px solid lightgrey;
   border-radius: 5px;
